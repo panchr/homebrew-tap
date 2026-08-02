@@ -1,6 +1,6 @@
 cask "espresso" do
-  version "0.1.1"
-  sha256 "8f22d2bc366782465a96f67e2b2ec89e7309c0abe6d8b89b4b12fe383f9c9303"
+  version "0.1.2"
+  sha256 "0dbcdd6c8b43830c922f2f24882b30f972f6d9ca00ed2f4bf32fee7feae676f2"
 
   url "https://github.com/panchr/espresso/releases/download/v#{version}/Espresso.zip"
   name "Espresso"
