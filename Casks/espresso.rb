@@ -1,6 +1,6 @@
 cask "espresso" do
   version "0.1"
-  sha256 "da1b16f1d0799eb6689246bba790a16fa0d3ae1f66d0a7880b255450c71af442"
+  sha256 "d068f9f1366479cf2cdf04d0bf8f8acdcd73ceb8debbff09b3ea4276d441ba77"
 
   url "https://github.com/panchr/espresso/releases/download/v#{version}/Espresso.zip"
   name "Espresso"
@@ -37,5 +37,3 @@ cask "espresso" do
     System Settings > General > Login Items.
   EOS
 end
-
-# marker: removed by the release workflow to prove deploy-key write access
