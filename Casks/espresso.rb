@@ -37,3 +37,5 @@ cask "espresso" do
     System Settings > General > Login Items.
   EOS
 end
+
+# marker: removed by the release workflow to prove deploy-key write access
